@@ -16,6 +16,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
+enabled = false
 build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -24,6 +25,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 version = "8.25.54"
 
 [GooglePhotos]
+enabled = false
 build-mode = "both"
 arch = "both"
 version = "auto"
@@ -31,6 +33,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Spotify]
+enabled = false
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
